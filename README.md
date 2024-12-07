@@ -3,6 +3,7 @@ This App crashes with the exception:
 java.lang.IllegalStateException: Restoring the Navigation back stack failed: destination 132070424 cannot be found from the current destination ComposeNavGraph(0x0) startDestination={Destination(0xe362b7e) route=com.example.typesafenavigation.Login}
 ```
 #### Video demonstration: [compose_crash.webm](compose_crash.webm)
+#### https://youtube.com/shorts/u7pN7vgOSAE
 
 Way to reproduce exception:
 1. In "Developer options" set "Background process limit" to "No background processes".
